@@ -1,7 +1,6 @@
 import random
 
 Random_number = random.randint(1 , 100)
-print(Random_number)
 guess_count = 1
 
 guess = 0
